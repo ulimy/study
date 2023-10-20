@@ -1,0 +1,49 @@
+# Spring Boot 기반으로 개발하는 Spring Batch
+
+### [강의 링크](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98/dashboard)
+
+### 목차
+1. [섹션 1] 스프링 배치 소개
+    - [개요 및 아키텍쳐](https://github.com/ulimy/study/blob/main/spring-batch/%EA%B0%95%EC%9D%98/Spring%20Boot%20%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C%20%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94%20Spring%20Batch/%5B%EC%84%B9%EC%85%98%201%5D%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B0%B0%EC%B9%98%20%EC%86%8C%EA%B0%9C/%EA%B0%9C%EC%9A%94%20%EB%B0%8F%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.md)
+
+
+2. [섹션 2] 스프링 배치 시작
+
+
+3. [섹션 3] 스프링 배치 도메인 이해
+
+
+4. [섹션 4] 스프링 배치 실행 - Job
+
+
+5. [섹션 5] 스프링 배치 실행 - Step
+
+
+6. [섹션 6] 스프링 배치 실행 - Flow
+
+
+7. [섹션 7] 스프링 배치 청크 프로세스 이해
+
+
+8. [섹션 8] 스프링 배치 청크 프로세스 활용 - ItemReader
+
+
+9. [섹션 9] 스프링 배치 청크 프로세스 활용 - ItemWriter
+
+
+10. [섹션 10] 스프링 배치 청크 프로세스 활용 - ItemProcessor
+
+
+11. [섹션 11] 스프링 배치 반복 및 오류 제어
+
+
+12. [섹션 12] 스프링 배치 멀티 스레드 프로세싱
+
+
+13. [섹션 13] 스프링 배치 이벤트 리스너
+
+
+14. [섹션 14] 스프링 배치 테스트 및 운영
+
+
+15. [섹션 15] 실전! 스프링 배치 어플리케이션 개발

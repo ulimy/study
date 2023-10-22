@@ -66,7 +66,7 @@
 
 
 - JobExecution과 StepExecution의 관계
-  ![image](https://github.com/ulimy/study/assets/18046394/401cd931-9fa7-4201-b75b-d63787aab9ac)
+  ![image](https://github.com/ulimy/study/assets/18046394/2848ee82-f6f6-4764-b664-cd851049ce95)
     - JobExecution : 부모 / StepExecution : 자식
     - JobExecution : StepExecution = 1 : N
     - 모든 Step의 StepExecution이 정상적으로 완료되어야 JobExecution도 정상적으로 완료될 수 있다.

@@ -1,5 +1,10 @@
 # 개인적으로 공부한 내용을 기록합니다.
 
+## Java
+### 📚 책
+- 내 코드가 그렇게 이상한가요?
+  - [학습링크](https://github.com/ulimy/study/tree/main/java/%EC%B1%85/%EB%82%B4%20%EC%BD%94%EB%93%9C%EA%B0%80%20%EA%B7%B8%EB%A0%87%EA%B2%8C%20%EC%9D%B4%EC%83%81%ED%95%9C%EA%B0%80%EC%9A%94%3F)
+
 ## Spring
 ### 💻 강의
 - 스프링 DB 1편 - 데이터 접근 핵심 원리

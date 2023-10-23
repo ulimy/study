@@ -3,11 +3,13 @@
 ![image](https://github.com/ulimy/study/assets/18046394/63b7ae90-344e-429a-9e89-f7bd07c359b0)
 
 ### 목차
+
 1. [1장] 잘못된 구조의 문제 깨닫기
     - [학습링크](https://github.com/ulimy/study/blob/main/java/%EC%B1%85/%EB%82%B4%20%EC%BD%94%EB%93%9C%EA%B0%80%20%EA%B7%B8%EB%A0%87%EA%B2%8C%20%EC%9D%B4%EC%83%81%ED%95%9C%EA%B0%80%EC%9A%94%3F/%5B1%EC%9E%A5%5D%20%EC%9E%98%EB%AA%BB%EB%90%9C%20%EA%B5%AC%EC%A1%B0%EC%9D%98%20%EB%AC%B8%EC%A0%9C%20%EA%B9%A8%EB%8B%AB%EA%B8%B0.md)
 
 
 2. [2장] 설계 첫걸음
+    - [학습링크](https://github.com/ulimy/study/blob/main/java/%EC%B1%85/%EB%82%B4%20%EC%BD%94%EB%93%9C%EA%B0%80%20%EA%B7%B8%EB%A0%87%EA%B2%8C%20%EC%9D%B4%EC%83%81%ED%95%9C%EA%B0%80%EC%9A%94%3F/%5B2%EC%9E%A5%5D%20%EC%84%A4%EA%B3%84%20%EC%B2%AB%EA%B1%B8%EC%9D%8C.md)
 
 
 3. [3장] 클래스 설계 : 모든 것과 연결되는 설계 기반

@@ -13,6 +13,7 @@
 
 
 3. [3장] 클래스 설계 : 모든 것과 연결되는 설계 기반
+   - [학습링크](https://github.com/ulimy/study/blob/main/java/%EC%B1%85/%EB%82%B4%20%EC%BD%94%EB%93%9C%EA%B0%80%20%EA%B7%B8%EB%A0%87%EA%B2%8C%20%EC%9D%B4%EC%83%81%ED%95%9C%EA%B0%80%EC%9A%94%3F/%5B3%EC%9E%A5%5D%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EC%84%A4%EA%B3%84%20%3A%20%EB%AA%A8%EB%93%A0%20%EA%B2%83%EA%B3%BC%20%EC%97%B0%EA%B2%B0%EB%90%98%EB%8A%94%20%EC%84%A4%EA%B3%84%20%EA%B8%B0%EB%B0%98.md)
 
 
 4. [4장] 불변 활용하기 : 안정적으로 동작하게 만들기

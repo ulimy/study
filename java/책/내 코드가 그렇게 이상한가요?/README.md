@@ -17,6 +17,7 @@
 
 
 4. [4장] 불변 활용하기 : 안정적으로 동작하게 만들기
+   - [학습링크](https://github.com/ulimy/study/blob/main/java/%EC%B1%85/%EB%82%B4%20%EC%BD%94%EB%93%9C%EA%B0%80%20%EA%B7%B8%EB%A0%87%EA%B2%8C%20%EC%9D%B4%EC%83%81%ED%95%9C%EA%B0%80%EC%9A%94%3F/%5B4%EC%9E%A5%5D%20%EB%B6%88%EB%B3%80%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0%20%3A%20%EC%95%88%EC%A0%95%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%8F%99%EC%9E%91%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 
 
 5. [5장] 응집도 : 흩어져 있는 것들

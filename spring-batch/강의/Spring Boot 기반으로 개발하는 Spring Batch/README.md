@@ -16,6 +16,7 @@
    - [Step](https://github.com/ulimy/study/blob/main/spring-batch/%EA%B0%95%EC%9D%98/Spring%20Boot%20%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C%20%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94%20Spring%20Batch/%5B%EC%84%B9%EC%85%98%203%5D%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B0%B0%EC%B9%98%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%9D%B4%ED%95%B4/Step.md)
 
 4. [섹션 4] 스프링 배치 실행 - Job
+   - [배치 초기화 설정](https://github.com/ulimy/study/blob/main/spring-batch/%EA%B0%95%EC%9D%98/Spring%20Boot%20%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C%20%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94%20Spring%20Batch/%5B%EC%84%B9%EC%85%98%204%5D%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B0%B0%EC%B9%98%20%EC%8B%A4%ED%96%89%20-%20Job/%EB%B0%B0%EC%B9%98%20%EC%B4%88%EA%B8%B0%ED%99%94%20%EC%84%A4%EC%A0%95.md)
 
 
 5. [섹션 5] 스프링 배치 실행 - Step

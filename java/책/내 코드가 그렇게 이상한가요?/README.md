@@ -25,6 +25,7 @@
 
 
 6. [6장] 조건 분기 : 미궁처럼 복잡한 분기 처리를 무너뜨리는 방법
+   - [학습링크](https://github.com/ulimy/study/blob/main/java/%EC%B1%85/%EB%82%B4%20%EC%BD%94%EB%93%9C%EA%B0%80%20%EA%B7%B8%EB%A0%87%EA%B2%8C%20%EC%9D%B4%EC%83%81%ED%95%9C%EA%B0%80%EC%9A%94%3F/%5B6%EC%9E%A5%5D%20%EC%A1%B0%EA%B1%B4%20%EB%B6%84%EA%B8%B0%20%3A%20%EB%AF%B8%EA%B6%81%EC%B2%98%EB%9F%BC%20%EB%B3%B5%EC%9E%A1%ED%95%9C%20%EB%B6%84%EA%B8%B0%20%EC%B2%98%EB%A6%AC%EB%A5%BC%20%EB%AC%B4%EB%84%88%EB%9C%A8%EB%A6%AC%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 
 
 7. [7장] 컬렉션 : 중첩을 제거하는 구조화 테크닉

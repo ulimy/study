@@ -21,6 +21,7 @@
 
 
 5. [5장] 응집도 : 흩어져 있는 것들
+   - [학습링크](https://github.com/ulimy/study/blob/main/java/%EC%B1%85/%EB%82%B4%20%EC%BD%94%EB%93%9C%EA%B0%80%20%EA%B7%B8%EB%A0%87%EA%B2%8C%20%EC%9D%B4%EC%83%81%ED%95%9C%EA%B0%80%EC%9A%94%3F/%5B5%EC%9E%A5%5D%20%EC%9D%91%EC%A7%91%EB%8F%84%20%3A%20%ED%9D%A9%EC%96%B4%EC%A0%B8%20%EC%9E%88%EB%8A%94%20%EA%B2%83%EB%93%A4.md)
 
 
 6. [6장] 조건 분기 : 미궁처럼 복잡한 분기 처리를 무너뜨리는 방법

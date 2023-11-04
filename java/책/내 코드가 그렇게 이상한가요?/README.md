@@ -29,6 +29,7 @@
 
 
 7. [7장] 컬렉션 : 중첩을 제거하는 구조화 테크닉
+   - [학습링크](https://github.com/ulimy/study/blob/main/java/%EC%B1%85/%EB%82%B4%20%EC%BD%94%EB%93%9C%EA%B0%80%20%EA%B7%B8%EB%A0%87%EA%B2%8C%20%EC%9D%B4%EC%83%81%ED%95%9C%EA%B0%80%EC%9A%94%3F/%5B7%EC%9E%A5%5D%20%EC%BB%AC%EB%A0%89%EC%85%98%20%3A%20%EC%A4%91%EC%B2%A9%EC%9D%84%20%EC%A0%9C%EA%B1%B0%ED%95%98%EB%8A%94%20%EA%B5%AC%EC%A1%B0%ED%99%94%20%ED%85%8C%ED%81%AC%EB%8B%89.md)
 
 
 8. [8장] 강한 결합 : 복잡하게 얽혀서 풀 수 없는 구조

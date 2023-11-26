@@ -5,6 +5,7 @@
 ### 목차
 
 1. [1장] 계층형 아키텍처의 문제는 무엇일까?
+   - [학습링크](https://github.com/ulimy/study/blob/main/java/%EC%B1%85/%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%ED%81%B4%EB%A6%B0%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98/%5B1%EC%9E%A5%5D%20%EA%B3%84%EC%B8%B5%ED%98%95%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EB%8A%94%20%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%3F.md)
 
 
 2. [2장] 의존성 역전하기

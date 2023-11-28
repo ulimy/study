@@ -13,6 +13,7 @@
 
 
 3. [3장] 코드 구성하기
+    - [학습링크](https://github.com/ulimy/study/blob/main/java/%EC%B1%85/%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%ED%81%B4%EB%A6%B0%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98/%5B3%EC%9E%A5%5D%20%EC%BD%94%EB%93%9C%20%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0.md)
 
 
 4. [4장] 유스케이스 구현하기

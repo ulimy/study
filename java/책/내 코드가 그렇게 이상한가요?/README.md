@@ -52,6 +52,7 @@
 
 
 13. [13장] 모델링 : 클래스 설계의 토대
+    - [학습링크](https://github.com/ulimy/study/blob/main/java/%EC%B1%85/%EB%82%B4%20%EC%BD%94%EB%93%9C%EA%B0%80%20%EA%B7%B8%EB%A0%87%EA%B2%8C%20%EC%9D%B4%EC%83%81%ED%95%9C%EA%B0%80%EC%9A%94%3F/%5B13%EC%9E%A5%5D%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%3A%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EC%84%A4%EA%B3%84%EC%9D%98%20%ED%86%A0%EB%8C%80.md)
 
 
 14. [14장] 리팩터링 : 기존의 코드를 성장시키는 기술

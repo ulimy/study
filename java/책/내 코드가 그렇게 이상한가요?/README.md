@@ -56,6 +56,7 @@
 
 
 14. [14장] 리팩터링 : 기존의 코드를 성장시키는 기술
+    - [학습링크](https://github.com/ulimy/study/blob/main/java/%EC%B1%85/%EB%82%B4%20%EC%BD%94%EB%93%9C%EA%B0%80%20%EA%B7%B8%EB%A0%87%EA%B2%8C%20%EC%9D%B4%EC%83%81%ED%95%9C%EA%B0%80%EC%9A%94%3F/%5B14%EC%9E%A5%5D%20%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%20%3A%20%EA%B8%B0%EC%A1%B4%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%84%B1%EC%9E%A5%EC%8B%9C%ED%82%A4%EB%8A%94%20%EA%B8%B0%EC%88%A0.md)
 
 
 15. [15장] 설계의 의의와 설계를 대하는 방법

@@ -60,6 +60,7 @@
 
 
 15. [15장] 설계의 의의와 설계를 대하는 방법
+    - [학습링크](https://github.com/ulimy/study/blob/main/java/%EC%B1%85/%EB%82%B4%20%EC%BD%94%EB%93%9C%EA%B0%80%20%EA%B7%B8%EB%A0%87%EA%B2%8C%20%EC%9D%B4%EC%83%81%ED%95%9C%EA%B0%80%EC%9A%94%3F/%5B15%EC%9E%A5%5D%20%EC%84%A4%EA%B3%84%EC%9D%98%20%EC%9D%98%EC%9D%98%EC%99%80%20%EC%84%A4%EA%B3%84%EB%A5%BC%20%EB%8C%80%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 
 
 16. [16장] 설계를 방해하는 개발 프로세스와의 싸움

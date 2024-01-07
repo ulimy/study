@@ -39,6 +39,7 @@
 9. [9장] 설계의 건전성을 해치는 여러 악마
     - [학습링크](https://github.com/ulimy/study/blob/main/java/%EC%B1%85/%EB%82%B4%20%EC%BD%94%EB%93%9C%EA%B0%80%20%EA%B7%B8%EB%A0%87%EA%B2%8C%20%EC%9D%B4%EC%83%81%ED%95%9C%EA%B0%80%EC%9A%94%3F/%5B9%EC%9E%A5%5D%20%EC%84%A4%EA%B3%84%EC%9D%98%20%EA%B1%B4%EC%A0%84%EC%84%B1%EC%9D%84%20%ED%95%B4%EC%B9%98%EB%8A%94%20%EC%97%AC%EB%9F%AC%20%EC%95%85%EB%A7%88.md)
 
+
 10. [10장] 이름 설계 : 구조를 파악할 수 있는 이름
     - [학습링크](https://github.com/ulimy/study/blob/main/java/%EC%B1%85/%EB%82%B4%20%EC%BD%94%EB%93%9C%EA%B0%80%20%EA%B7%B8%EB%A0%87%EA%B2%8C%20%EC%9D%B4%EC%83%81%ED%95%9C%EA%B0%80%EC%9A%94%3F/%5B10%EC%9E%A5%5D%20%EC%9D%B4%EB%A6%84%20%EC%84%A4%EA%B3%84%20%3A%20%EA%B5%AC%EC%A1%B0%EB%A5%BC%20%ED%8C%8C%EC%95%85%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%EC%9D%B4%EB%A6%84%20.md)
 
@@ -64,6 +65,7 @@
 
 
 16. [16장] 설계를 방해하는 개발 프로세스와의 싸움
+    - [학습링크](https://github.com/ulimy/study/blob/main/java/%EC%B1%85/%EB%82%B4%20%EC%BD%94%EB%93%9C%EA%B0%80%20%EA%B7%B8%EB%A0%87%EA%B2%8C%20%EC%9D%B4%EC%83%81%ED%95%9C%EA%B0%80%EC%9A%94%3F/%5B16%EC%9E%A5%5D%20%EC%84%A4%EA%B3%84%EB%A5%BC%20%EB%B0%A9%ED%95%B4%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%EC%9D%98%20%EC%8B%B8%EC%9B%80.md)
 
 
 17. [17장] 설계 기술을 계속해서 공부하려면

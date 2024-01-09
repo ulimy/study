@@ -69,3 +69,4 @@
 
 
 17. [17장] 설계 기술을 계속해서 공부하려면
+    - [학습링크](https://github.com/ulimy/study/blob/main/java/%EC%B1%85/%EB%82%B4%20%EC%BD%94%EB%93%9C%EA%B0%80%20%EA%B7%B8%EB%A0%87%EA%B2%8C%20%EC%9D%B4%EC%83%81%ED%95%9C%EA%B0%80%EC%9A%94%3F/%5B17%EC%9E%A5%5D%20%EC%84%A4%EA%B3%84%20%EA%B8%B0%EC%88%A0%EC%9D%84%20%EA%B3%84%EC%86%8D%ED%95%B4%EC%84%9C%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%A0%A4%EB%A9%B4.md)

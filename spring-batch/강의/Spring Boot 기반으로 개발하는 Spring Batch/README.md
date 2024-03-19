@@ -56,6 +56,7 @@
 
 
 12. [섹션 12] 스프링 배치 멀티 스레드 프로세싱
+    - [기본개념](https://github.com/ulimy/study/blob/main/spring-batch/%EA%B0%95%EC%9D%98/Spring%20Boot%20%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C%20%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94%20Spring%20Batch/%5B%EC%84%B9%EC%85%98%2012%5D%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B0%B0%EC%B9%98%20%EB%A9%80%ED%8B%B0%20%EC%8A%A4%EB%A0%88%EB%93%9C%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8B%B1/%EA%B8%B0%EB%B3%B8%EA%B0%9C%EB%85%90.md)
 
 
 13. [섹션 13] 스프링 배치 이벤트 리스너

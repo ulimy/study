@@ -8,6 +8,8 @@
     - [학습링크](https://github.com/ulimy/study/tree/main/java/%EC%B1%85/%EB%82%B4%20%EC%BD%94%EB%93%9C%EA%B0%80%20%EA%B7%B8%EB%A0%87%EA%B2%8C%20%EC%9D%B4%EC%83%81%ED%95%9C%EA%B0%80%EC%9A%94%3F)
 - 만들면서 배우는 클린 아키텍처
     - [학습링크](https://github.com/ulimy/study/tree/main/java/%EC%B1%85/%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%ED%81%B4%EB%A6%B0%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
+- 구글 엔지니어는 이렇게 일한다.
+    - [학습링크](https://github.com/ulimy/study/tree/main/soft-skills/%EC%B1%85/%EA%B5%AC%EA%B8%80%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%8A%94%20%EC%9D%B4%EB%A0%87%EA%B2%8C%20%EC%9D%BC%ED%95%9C%EB%8B%A4.)
 
 ## Spring
 

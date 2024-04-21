@@ -40,6 +40,7 @@
 
 
 9. [ CHAPTER 9 ] 코드 리뷰
+    - [학습링크](https://github.com/ulimy/study/blob/main/soft-skills/%EC%B1%85/%EA%B5%AC%EA%B8%80%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%8A%94%20%EC%9D%B4%EB%A0%87%EA%B2%8C%20%EC%9D%BC%ED%95%9C%EB%8B%A4./%5B%20CHAPTER%209%20%5D%20%EC%BD%94%EB%93%9C%20%EB%A6%AC%EB%B7%B0.md)
 
 
 10. [ CHAPTER 10 ] 문서자료

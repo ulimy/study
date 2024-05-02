@@ -47,6 +47,7 @@
 
 
 11. [ CHAPTER 11 ] 테스트 개요
+    - [학습링크](https://github.com/ulimy/study/blob/main/soft-skills/%EC%B1%85/%EA%B5%AC%EA%B8%80%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%8A%94%20%EC%9D%B4%EB%A0%87%EA%B2%8C%20%EC%9D%BC%ED%95%9C%EB%8B%A4./%5B%20CHAPTER%2011%20%5D%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B0%9C%EC%9A%94.md)
 
 
 12. [ CHAPTER 12 ] 단위 테스트

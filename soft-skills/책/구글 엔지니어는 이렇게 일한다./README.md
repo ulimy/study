@@ -22,6 +22,7 @@
 
 
 4. [ CHAPTER 4 ] 공정 사회를 위한 엔지니어링
+    - [학습링크](https://github.com/ulimy/study/blob/main/soft-skills/%EC%B1%85/%EA%B5%AC%EA%B8%80%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%8A%94%20%EC%9D%B4%EB%A0%87%EA%B2%8C%20%EC%9D%BC%ED%95%9C%EB%8B%A4./%5B%20CHAPTER%204%20%5D%20%EA%B3%B5%EC%A0%95%20%EC%82%AC%ED%9A%8C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81.md)
 
 
 5. [ CHAPTER 5 ] 팀 이끌기
